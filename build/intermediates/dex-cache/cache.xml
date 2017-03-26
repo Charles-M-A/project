@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Charles\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Charles\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_98f8de7f427f2ecf80c0cab67e5217fdae2782d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Charles\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="C:\Users\Charles\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha7_3ed0a2deadea94a44f1a98f39e3a736a71a73050\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Charles\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75a7e062fbe771691a532e77f7b43b284c034f17">
+        <dex dex="C:\Users\Charles\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_43bea65975402b39f7b9078f1c5d3f5b8d7d5430\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Charles\.android\build-cache\77793a36d3c1fbd7013b4f54edf6274614e4c2cb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="C:\Users\Charles\AndroidStudioProjects\google-books-api-android-sample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_614bb140dcf263cd76f0f55ef3c87d92e137c1b1\classes.dex" />
+    </item>
+
+</items>
